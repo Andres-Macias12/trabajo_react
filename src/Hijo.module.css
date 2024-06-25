@@ -1,0 +1,16 @@
+.hijoContainer {
+    margin-top: 20px;
+    padding: 15px;
+    background-color: #e0e0e0;
+    border: 2px solid #bbb;
+    border-radius: 8px;
+    text-align: center;
+  }
+  
+  .titulo {
+    color: #555;
+  }
+  
+  .mensaje {
+    color: #666;
+  }
